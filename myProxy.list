@@ -1,1 +1,16 @@
-
+# Blizzard
+DOMAIN-SUFFIX,battle.net
+DOMAIN-SUFFIX,battlenet.com
+DOMAIN-SUFFIX,blizzard.com
+# Epic
+DOMAIN-SUFFIX,epicgames.com
+DOMAIN-SUFFIX,epicgames.dev
+DOMAIN-SUFFIX,helpshift.com
+DOMAIN-SUFFIX,paragon.com
+DOMAIN-SUFFIX,unrealengine.com
+# Sony
+DOMAIN-SUFFIX,playstation.com
+DOMAIN-SUFFIX,playstation.net
+DOMAIN-SUFFIX,playstationnetwork.com
+DOMAIN-SUFFIX,sony.com
+DOMAIN-SUFFIX,sonyentertainmentnetwork.com
