@@ -17,7 +17,8 @@ proxies:
     # skip-cert-verify: true
     ws-opts:
       path: "/ray"
-
+      headers:
+        Host: ""
 proxy-groups:
   - name: 🚀 Proxy
     type: select
