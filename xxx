@@ -18,7 +18,7 @@ proxies:
     ws-opts:
       path: "/ray"
       headers:
-        Host: 
+        Host: s.lankylonky22.xyz
 proxy-groups:
   - name: 🚀 Proxy
     type: select
