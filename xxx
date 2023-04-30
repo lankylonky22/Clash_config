@@ -9,7 +9,7 @@ proxies:
     type: vless
     server: s.lankylonky22.xyz
     port: 443
-    uuid: be0d9b8e-a71a-45e8-bf7c-cd427d025fe3
+    uuid: e1ef5b5b-6310-463d-cf12-7bbac04e8ed8
     udp: true
     tls: true
     network: ws
