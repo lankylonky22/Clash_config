@@ -17,8 +17,7 @@ proxies:
     # skip-cert-verify: true
     ws-opts:
       path: "/ray"
-      headers:
-        Host: s.lankylonky22.xyz
+
 proxy-groups:
   - name: 🚀 Proxy
     type: select
